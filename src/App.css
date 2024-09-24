@@ -34,9 +34,30 @@
 }
 
 .card {
-  padding: 2em;
+  margin-right: 15px;
+}
+.container {
+  border-top: 10px solid rgb(142, 142, 142);
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+h1 {
+  color: rgb(142, 142, 142);
+}
+
+h2 {
+  color: black;
+}
+h3 {
+  color: rgb(142, 142, 142);
+}
+
+p {
+  color: rgb(142, 142, 142);
 }
